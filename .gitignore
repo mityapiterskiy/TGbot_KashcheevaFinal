@@ -10,6 +10,3 @@ venv/
 .env
 .DS_Store
 
-# Local databases
-*.db
-
